@@ -1,1 +1,402 @@
 theme: jekyll-theme-minimal
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="cye-nm"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" href="./images/logo.jpg">
+
+<meta name="keywords" content="Bolun Cai, Cai Bolun, CIE, SCUT, South China University of Technology">
+<meta name="description" content="Bolun Cai&#39;s home page">
+<link rel="stylesheet" href="./css/jemdoc.css" type="text/css">
+<title>Bolun Cai</title>
+
+<script type="text/javascript" async="" src="./css/ga.js"></script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39824124-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<style id="nightModeStyle">
+html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) body,
+ html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) #cye-workaround-body {-webkit-filter:contrast(91%) brightness(84%) invert(1);}</style><style id="cyebody">html.cye-enabled.cye-lm body{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyediv">html.cye-enabled.cye-lm div{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyetable">html.cye-enabled.cye-lm th{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}html.cye-enabled.cye-lm td{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyetextInput">html.cye-enabled.cye-lm input[type=text]{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}html.cye-enabled.cye-lm textarea{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeselect">html.cye-enabled.cye-lm select{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeul">html.cye-enabled.cye-lm ul{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeChangeByClick">html.cye-enabled.cye-lm .cye-lm-tag,html.cye-enabled.cye-lm.cye-lm-tag{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style>
+<style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-82384246-1', 'auto');
+  ga('send', 'pageview');
+</script>
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+</style>
+
+</head>
+<body ryt12610="1">
+
+<div id="layout-content" style="margin-top:15px">
+
+<table>
+  <tbody>
+    <tr>
+      <td width="670">
+        <div id="toptitle">
+          <h1>Bolun Cai &nbsp; 蔡博仑</h1><h1>
+        </h1></div>
+        <h3>Ph.D Candidate</a></h3>
+        <p>
+          School of Eletronic and Information Engieering<br>
+          South China University of Technology <br>
+          Guangzhou, China<br>
+          <br>
+          Email: <a href="mailto:caibolun@gmail.com">caibolun@gmail.com</a><br>
+		  LinkIn: <a href="https://www.linkedin.com/in/caibolun">https://www.linkedin.com/in/caibolun</a><br>
+		  Github: <a href="https://github.com/caibolun/">https://github.com/caibolun/</a>
+        </p>
+      </td>
+      <!--<td>
+        <img src="./images/caibolun.jpg" border="0" width="400">
+      </td>-->
+    </tr><tr>
+  </tr></tbody>
+</table>
+
+<h2>Biography</h2>
+  <p>
+  I am currently a Ph.D. candidate with School of Electronic and Information Engineering, South China University of Technology, China, where I obtained my bachelor degree. My research interest mainly lies in <em>computer vision</em>, <em>deep learning</em>, <em>image processing</em> and <em>visual tracking</em>.
+  </p>
+  <p>
+  I am advised by Prof. <a href='http://dblp.uni-trier.de/pers/hc/x/Xu:Xiangmin'>Xiangmin Xu</a> in SCUT and co-advised by Prof. <a href='http://sydney.edu.au/engineering/people/dacheng.tao.php'>Dacheng Tao</a> in USYD. I am so lucky to work closely with Prof. <a href='http://www.fst.umac.mo/en/staff/kuijia.html'>Kui Jia</a> in UM.
+  </p>
+</p>
+
+<h2>Education & Experience</h2>
+<ul>
+  <li>
+  2016 - Present&nbsp;&nbsp;&nbsp;&nbsp;<b>South China University of Technology</b>
+  </li>
+  <b>Ph.D. Candidate</b>, Communication and Information Engineering
+
+  <li>
+  2017.06 - 2017.09&nbsp;&nbsp;&nbsp;&nbsp;<b>WeChatAI (WHAT Lab), Tencent Inc.</b>
+  </li>
+  Ph.D Researcher
+
+  <li>
+  2016.01 - 2016.09&nbsp;&nbsp;&nbsp;&nbsp;<b>University of Macau</b>
+  </li>
+  Research Associate
+
+  <li>
+  2015.07 - 2015.09&nbsp;&nbsp;&nbsp;&nbsp;<b>DeepGlint Information Technologies Co. Ltd.</b>
+  </li>
+  Computer Vision Engineer
+
+  <li>
+  2013 - 2016&nbsp;&nbsp; &nbsp;&nbsp;<b>South China University of Technology</b>
+  </li>
+  <b>M.E. </b>, Electronics and Communications Engineering
+
+  <li>
+  2009 - 2013&nbsp;&nbsp;&nbsp;&nbsp;<b>South China University of Technology</b>
+  </li>
+  <b>B.E. </b>, Integrated Circuit Design and Integration System
+
+</ul>
+<!--
+<h2>Projects</h2>
+<ul>
+  <li>
+    <a href="./hci/index.html">Non-Contact Human Computer Interaction (NC-HCI) System<br></a>
+    <em>NextGen Human Computer Interaction Lab</em> (<b>NGHCI</b>), 2013 -2015 <br>
+  </li>
+  <li>
+    <a href="./hci/index.html">Non-Contact Human Computer Interaction (NC-HCI) System<br></a>
+    <em>NextGen Human Computer Interaction Lab</em> (<b>NGHCI</b>), 2013 -2015 <br>
+  </li>
+</ul>-->
+<h2>Manuscripts</h2>
+<ul>
+  <li>
+    <a href="https://arxiv.org/abs/1712.00926">Deep Sampling Networks<br></a>
+	 <b>Bolun Cai</b>, Xiangmin Xu, Kailing Guo, Kui Jia, Dacheng Tao.<br>
+    <em>arXiv:1712.00926</em>, 2017<br>
+    <p style="margin-top:3px">
+	  [<a href="#">Project</a>]
+      [<a href="./papers/DSN.pdf">Paper</a>]
+	  <!--[<a href='#'>Poster</a>]-->
+	  [<a href='https://github.com/caibolun/DSN/archive/master.zip'>Code</a>]
+
+    </p>
+  </li>
+</ul>
+<h2>Publications <small>[<a href="https://scholar.google.com/citations?user=wceVXfgAAAAJ">Google Scholar</a>][<a href="http://dblp.uni-trier.de/pers/hd/c/Cai:Bolun">dblp</a>]</small></h2>
+<ul>
+    <li>
+    <a href="https://ieeexplore.ieee.org/document/8451303">Perception Preserving Decolorization<br></a>
+	<b>Bolun Cai</b>, Xiangmin Xu, Xiaofen Xing.<br>
+    <em>IEEE International Conference on Image Processing</em> (<b>ICIP</b>), 2018<br>
+    <p style="margin-top:3px">
+	  [<a href="./deepdecolor/index.html">Project</a>]
+      [<a href="./papers/deepdecolor.pdf">Paper</a>]
+      [<a href='./deepdecolor/deepdecolor_poster.pdf'>Poster</a>]
+      [<a href='https://github.com/caibolun/deepdecolor/archive/master.zip'>Code</a>]
+    </p>
+  </li>
+	<li>
+    <a href="https://ieeexplore.ieee.org/document/8237693">A Joint Intrinsic-Extrinsic Prior Model for Retinex<br></a>
+	<b>Bolun Cai</b>, Xiangmin Xu, Kailing Guo, Kui Jia, Bin Hu, Dacheng Tao.<br>
+    <em>IEEE International Conference on Computer Vision</em> (<b>ICCV</b>), 2017  <br>
+    <p style="margin-top:3px">
+	  [<a href="./JieP/index.html">Project</a>]
+      [<a href="./papers/JieP.pdf">Paper</a>]
+	  [<a href='./JieP/JieP_poster.pdf'>Poster</a>]
+	  [<a href='https://github.com/caibolun/JieP/archive/master.zip'>Code</a>]
+    </p>
+  </li>
+  <li>
+    <a href="http://ieeexplore.ieee.org/document/7539399/">DehazeNet: An End-to-End System for Single Image Haze Removal<br></a>
+	<b>Bolun Cai</b>, Xiangmin Xu, Kui Jia, Chunmei Qing, Dacheng Tao.<br>
+    <em>IEEE Transactions on Image Processing</em> (<b>TIP</b>), 2016 [<font class="highlight">NOTE! </font>Highly Cited & Hot Paper]<br>
+    <p style="margin-top:3px">
+	  [<a href="./DehazeNet/index.html">Project</a>]
+      [<a href='./papers/DehazeNet.pdf'>Paper</a>]
+      [<a href='./DehazeNet/DehazeNet_poster.pdf'>Poster</a>]
+	  [<a href='https://github.com/caibolun/DehazeNet/archive/master.zip'>Code</a>]
+	  [<a href='https://github.com/PaddlePaddle/Paddle/blob/362a14d777ec795f1f6b397c1039ebb594050a10/doc/api/v2/config/activation.rst#brelu'>BReLU(Paddle)</a>]
+	  [<a href='https://github.com/torch/nn/blob/master/doc/transfer.md#hardtanh'>HardTanh(Torch)</a>]
+
+    </p>
+  </li>
+  <li>
+    <a href="http://ieeexplore.ieee.org/document/7387745/">BIT: Biologically Inspired Tracker</a><br>
+    <b>Bolun Cai</b>, Xiangmin Xu, Xiaofen Xing, Kui Jia, Jie Miao, Dacheng Tao.<br>
+    <em>IEEE Transactions on Image Processing</em> (<b>TIP</b>), 2016  <br>
+    <p style="margin-top:3px">
+      [<a href="./BIT/index.html">Project</a>]
+      [<a href='./papers/BIT_TIP.pdf'>Paper</a>]
+	  [<a href='./BIT/BIT_poster.pdf'>Poster</a>]
+	  [<a href='https://github.com/caibolun/BIT/archive/master.zip'>Code</a>]
+    </p>
+  </li>
+  <li>
+    <a href="https://ieeexplore.ieee.org/document/8296281/">Edge/Structure Preserving Smoothing via Relativity-of-Gaussian<br></a>
+	<b>Bolun Cai</b>, Xiaofen Xing, Xiangmin Xu.<br>
+    <em>IEEE International Conference on Image Processing</em> (<b>ICIP</b>), 2017 [<font class="highlight">NOTE! </font>Best Paper Finalist]<br>
+    <p style="margin-top:3px">
+	  [<a href="./RoG/index.html">Project</a>]
+      [<a href="./papers/RoG.pdf">Paper</a>]
+	  [<a href="./RoG/RoG_slide.ppsx">Slides</a>]
+	  [<a href='https://github.com/caibolun/RoG/archive/master.zip'>Code</a>]
+    </p>
+  </li>
+  <li>
+    <a href="http://link.springer.com/chapter/10.1007/978-3-319-48896-7_31">Real-time Video Dehazing based on Spatio-temporal MRF<br></a>
+	<b>Bolun Cai</b>, Xiangmin Xu, Dacheng Tao.<br>
+    <em>Pacific-Rim Conference on Multimedia</em> (<b>PCM</b>), 2016 [<font class="highlight">NOTE! </font>Best Student Paper]<br>
+    <p style="margin-top:3px">
+	  [<a href="./st-mrf/index.html">Project</a>]
+      [<a href="./papers/ST_MRF.pdf">Paper</a>]
+	  [<a href="./st-mrf/STMRF_slides.pdf">Slides</a>]
+	  [<a href='https://github.com/caibolun/ST-MRF/archive/master.zip'>Code</a>]
+    </p>
+  </li>
+  <li>
+    <a href="http://ieeexplore.ieee.org/document/7351323/">BIT: Bio-inspired Tracker</a><br>
+    <b>Bolun Cai</b>, Xiangmin Xu, Xiaofen Xing, Chunmei Qing.<br>
+    <em>IEEE International Conference on Image Processing</em> (<b>ICIP</b>), 2015  <br>
+    <p style="margin-top:3px">
+	  [<a href="./BIT/index.html">Project</a>]
+      [<a href='./papers/BIT_ICIP.pdf'>Paper</a>]
+	  [<a href='./papers/BIT_ICIP_poster.pdf'>Poster</a>]
+	  [<a href='https://github.com/caibolun/BIT/archive/master.zip'>Code</a>]
+    </p>
+  </li>
+  <li>
+    <a href="http://ieeexplore.ieee.org/document/6923838/">Bio-inspired Model with Dual Visual Pathways for Human Action Recognition<br></a>
+    <b>Bolun Cai</b>, Xiangmin Xu, Chunmei Qing.<br>
+    <em>International Symposium on Communication Systems, Networks & Digital Signal Processing</em> (<b>CSNDSP</b>), 2014  <br>
+    <p style="margin-top:3px">
+      [<a href="papers/BIM_STIP.pdf">Paper</a>]
+	  [<a href="papers/BIM_STIP_slide.pdf">Slides</a>]
+    </p>
+  </li>
+  <li>
+    <a href="http://ieeexplore.ieee.org/document/6385022/">A Coarse-to-Fine Approach for Motion Pattern Discovery<br></a>
+    <b>Bolun Cai</b>, Zhifeng Luo, Kerui Li.<br>
+    <em>International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery</em> (<b>CyberC</b>), 2012  <br>
+    <p style="margin-top:3px">
+      [<a href="papers/cyberc12.pdf">Paper</a>]
+	  [<a href="papers/cyberc12_slide.pdf">Slides</a>]
+    </p>
+  </li>
+  <li>
+    <a href="https://dl.acm.org/citation.cfm?id=3266311">Multi-modality Hierarchical Recall based on GBDTs for Bipolar Disorder Classification<br></a>
+    Xiaofen Xing, <b>Bolun Cai</b>, Yinhu Zhao, Shuzhen Li, Zhiwei He, Weiquan Fan.<br>
+    <em>Audio/Visual Emotion Challenge and Workshop, ACM Multimedia Conference </em>, 2018 [<font class="highlight">NOTE! </font>The First Place]<br>
+    <p style="margin-top:3px">
+      [<a href="https://github.com/caibolun/AVEC-BDS2018">Project</a>]
+      [<a href="./papers/BDS.pdf">Paper</a>]
+      [<a href="./papers/BDS_slide.pdf">Slides</a>]
+      [<a href='https://github.com/caibolun/AVEC-BDS2018/archive/master.zip'>Code</a>]
+    </p>
+  </li>
+  <li>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-030-00563-4_39">Local-Global Extraction Unit for Person Re-identification<br></a>
+    Peng Wang, Chunmei Qing, Xiangmin Xu, <b>Bolun Cai</b>, Jianxiu Jin, Jinchang Ren.<br>
+    <em>International Conference on Brain Inspired Cognitive Systems</em> (<b>ICBICS</b>), 2018<br>
+    <p style="margin-top:3px">
+      [<a href="papers/LGEU.pdf">Paper</a>]
+    </p>
+  </li>
+
+    <li>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8486460/">Learning Adaptive Selection Network for Real-time Visual Tracking<br></a>
+	 Jiangfeng Xiong, Xiangmin Xu, <b>Bolun Cai</b>, Xiaofen Xing, Kailing Guo.<br>
+    <em>IEEE International Conference on Multimedia and Expo</em> (<b>ICME</b>), 2018<br>
+    <p style="margin-top:3px">
+      [<a href="papers/ASNT.pdf">Paper</a>]
+    </p>
+  </li>
+
+    <li>
+    <a href="#">Style Transfer at 100+ FPS via Sub-pixel Super-resolution<br></a>
+	 Haoyu Li, Xiangmin Xu, <b>Bolun Cai</b>, Kailing Guo.<br>
+    <em>IEEE International Conference on Multimedia and Expo</em> (<b>ICME</b>), 2018<br>
+    <p style="margin-top:3px">
+      [<a href="#">Paper</a>]
+    </p>
+  </li>
+
+  <li>
+    <a href="https://arxiv.org/abs/1706.08098">FReLU: Flexible Rectified Linear Units for Improving Convolutional Neural Networks<br></a>
+	 Suo Qiu, Xiangmin Xu, <b>Bolun Cai</b>.<br>
+    <em>IEEE International Conference on Pattern Recognition</em> (<b>ICPR</b>), 2018<br>
+    <p style="margin-top:3px">
+      [<a href="./papers/FReLU.pdf">Paper</a>]
+    </p>
+  </li>
+
+<li>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-319-77380-3_15">Single Image Super-Resolution Using Multi-Scale Convolutional Neural Network<br></a>
+	Xiaoyi Jia, Xiangmin Xu, <b>Bolun Cai</b>, Kailing Guo.<br>
+    <em>Pacific-Rim Conference on Multimedia</em> (<b>PCM</b>), 2017<br>
+    <p style="margin-top:3px">
+      [<a href="./papers/MSSR.pdf">Paper</a>]
+    </p>
+  </li>
+  <li>
+    <a href="https://ieeexplore.ieee.org/document/8296324/">Multi-scale Convolutional Neural Networks for Crowd Counting<br></a>
+	Lingke Zeng, Xiangmin Xu, <b>Bolun Cai</b>, Suo Qiu, Tong Zhang.<br>
+    <em>IEEE International Conference on Image Processing</em> (<b>ICIP</b>), 2017 <br>
+    <p style="margin-top:3px">
+      [<a href='./papers/MSCNN.pdf'>Paper</a>]
+    </p>
+  </li>
+  <li>
+    <a href="https://link.springer.com/chapter/10.1007/978-981-10-8530-7_3">Joint Latent Space and Multi-View Feature Learning<br></a>
+	Kailing Guo, Xiangmin Xu, <b>Bolun Cai</b>, Tong Zhang.<br>
+    <em>International Conference on Internet Multimedia Computing and Service </em> (<b>ICIMCS</b>), 2017<br>
+    <p style="margin-top:3px">
+      [<a href="./papers/MVGoDec.pdf">Paper</a>]
+    </p>
+  </li>
+  <li>
+    <a href="https://link.springer.com/chapter/10.1007/978-981-10-8530-7_40">Progressive Lifelong Learning by Sharing Representations for Few Labeled Data <br></a>
+	Guoxi Su, Xiangmin Xu, Chaowen Chen, <b>Bolun Cai</b>, Chunmei Qing.<br>
+    <em>International Conference on Internet Multimedia Computing and Service </em> (<b>ICIMCS</b>), 2017<br>
+    <p style="margin-top:3px">
+      [<a href="./papers/PLLA.pdf">Paper</a>]
+    </p>
+  </li>
+  <li>
+    <a href="https://ieeexplore.ieee.org/document/8276888/">Face Verification Based on Feature Transfer via PCA-SVM Framework<br></a>
+	Xiaofen Xing, Guicong Xu, <b>Bolun Cai</b>, Chunmei Qing, Xiangmin Xu.<br>
+    <em>IEEE International Conference on Smart Data</em> (<b>SmartData</b>), 2017 <br>
+    <p style="margin-top:3px">
+      [<a href='./papers/PCASVM_Face.pdf'>Paper</a>]
+    </p>
+  </li>
+  <li>
+    <a href="http://ieeexplore.ieee.org/abstract/document/7805512/">Image and Video Dehazing using View-based Cluster Segmentation<br></a>
+	Feng Yu, Chunmei Qing, Xiangmin Xu, <b>Bolun Cai</b>.<br>
+    <em>IEEE International Conference on Visual Communications and Image Processing</em> (<b>VCIP</b>), 2016 <br>
+    <p style="margin-top:3px">
+      [<a href='./papers/VCS.pdf'>Paper</a>]
+    </p>
+  </li>
+  <li>
+    <a href="http://link.springer.com/chapter/10.1007/978-3-319-48896-7_22">Exploiting Local Feature Fusion for Action Recognition<br></a>
+	Jie Miao, Xiangmin Xu, Xiaoyi Jia, Haoyu Huang, <b>Bolun Cai</b>, Chunmei Qing, Xiaofen Xing.<br>
+    <em>Pacific-Rim Conference on Multimedia</em> (<b>PCM</b>), 2016 <br>
+    <p style="margin-top:3px">
+      [<a href="./papers/LFF.pdf">Paper</a>]
+    </p>
+  </li>
+  <li>
+    <a href="http://ieeexplore.ieee.org/document/7251890/">Multi-invariance appearance model for object tracking<br></a>
+    Guicong Xu, Xiangmin Xu, Xiaofen Xing, <b>Bolun Cai</b>, Chunmei Qing.<br>
+    <em>IEEE International Conference on Digital Signal Processing</em> (<b>DSP</b>), 2015  <br>
+    <p style="margin-top:3px">
+      [<a href="papers/MCT.pdf">Paper</a>]
+	  [<a href="papers/tracker.pdf">Report</a>]
+    </p>
+  </li>
+</ul>
+<h2>Theses</h2>
+<ul>
+	<li>
+    <a href="http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1016770578.nh">Object Tracking Based on Biologically Inspired Model<br></a>
+	<b>Bolun Cai</b><br>
+    A Dissertation of Master, <em>South China University of Technology</em> (<b>SCUT</b>), 2016  <br>
+    <p style="margin-top:3px">
+	  [<a href="./papers/BIT.caj">CAJ</a>]
+      [<a href="./papers/BIT.pdf">PDF</a>]
+    </p>
+  </li>
+  <li>
+    <a href="./papers/BIM_STF.pdf">Biologically Inspired Model based Spatio-temporal Feature Extraction<br></a>
+	<b>Bolun Cai</b><br>
+    A Dissertation of Bachelor, <em>South China University of Technology</em> (<b>SCUT</b>), 2013 [<font class="highlight">NOTE! </font>Excellent Graduated Thesis] <br>
+    <p style="margin-top:3px">
+	  [<a href="./papers/BIM_STF.pdf">Paper</a>]
+    </p>
+  </li>
+</ul>
+<h2>Professional Activities</h2>
+<h4>Journal Reviewer</h4>
+<li><em>IEEE Transactions on Image Processing</em> (<b>TIP</b>)</li>
+<li><em>IEEE Transactions on Circuits and Systems for Video Technology</em> (<b>TCSVT</b>)</li>
+<li><em>IEEE Transactions on Multimedia</em> (<b>TMM</b>)</li>
+<li><em>Neurocomputing</em> (<b>NC</b>)</li>
+<li><em>PLoS One</em></li>
+<h4>Conference Reviewer</h4>
+<li><em>International Conference on Pattern Recognition</em> (<b>ICPR</b>) 2018</li>
+<div id="footer">
+  <div id="footer-text"></div>
+</div>
+</div>
+
+<div align="center">Last updated on May 4, 2018</div>
+<p>
+</p>
+<div align="center">This site has been visisted <a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3202265&c=9607108" alt="AmazingCounters.com"></a> times.</div>
+
+</body>
+
+
+</html>
+
