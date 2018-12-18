@@ -1,2 +1,2 @@
 # scutcyr.github.io
-陈艺荣的个人博客
+## <https://scutcyr.github.io/>
