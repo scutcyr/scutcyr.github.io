@@ -164,6 +164,42 @@ h3 {
 	border-bottom: none;
 }
 
+/* by 陈艺荣 */
+h1.randc{font-size:50px;}
+/* by 主菜单背景 */
+ul.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #9966CC;
+    /*position: fixed;*/
+    top: 0;
+    width: 100%;
+}
+/* by 主菜单选项 */
+li.menu {
+    float: left;
+}
+li.menu a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+li.menu a:hover:not(.active) {
+    background-color: #111;
+}
+.active {
+    background-color: #330099;  /*6633CC  4CAF50*/
+}
+
+
+
+
+
+
 p {
 	margin-top: 0.0em;
 	margin-bottom: 0.8em;
