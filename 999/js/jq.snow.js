@@ -14,7 +14,7 @@
 									minSize		: 10,		//雪花的最小尺寸
 									maxSize		: 20,		//雪花的最大尺寸
 									newOn		: 1000,		//雪花出现的频率
-									flakeColor	: "#FFFFFF"	//懒人建站 www.51xuediannao.com   整理
+									flakeColor	: "#FFC0CB"	//懒人建站 www.51xuediannao.com   整理
 								},
 				options			= $.extend({}, defaults, options);
 			
